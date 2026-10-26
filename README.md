@@ -19,6 +19,6 @@ Desarrollador Web Jr. en DISCOGUA (sep 2023 – dic 2025): addons web sobre el E
 
 ## Contacto
 
-[Portafolio](https://victorestuardo.com/) · [LinkedIn](https://www.linkedin.com/in/victor-est-lopez-dev) · vl40509@gmail.com
+[Portafolio](https://victorestuardo.com/) · [LinkedIn](https://www.linkedin.com/in/victor-est-lopez-dev) · contacto@victorestuardo.com
 
 Busco mi siguiente rol como desarrollador Full Stack, en modalidad remota, híbrida o presencial en Guatemala.
