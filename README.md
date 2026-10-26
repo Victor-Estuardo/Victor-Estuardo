@@ -19,6 +19,6 @@ Desarrollador Web Jr. en DISCOGUA (sep 2023 – dic 2025): addons web sobre el E
 
 ## Contacto
 
-[Portafolio](https://portafolio-delta-opal-49.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/victor-est-lopez-dev) · vl40509@gmail.com
+[Portafolio](https://portfolio.victorestuardo.com/) · [LinkedIn](https://www.linkedin.com/in/victor-est-lopez-dev) · vl40509@gmail.com
 
-Busco una oportunidad como desarrollador Full Stack, en modalidad remota, híbrida o presencial en Guatemala.
+Busco mi siguiente rol como desarrollador Full Stack, en modalidad remota, híbrida o presencial en Guatemala.
